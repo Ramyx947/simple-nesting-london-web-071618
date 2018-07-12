@@ -120,9 +120,10 @@ def changing_alan
     # end 
     
   programmer_hash[:alan_kay][:known_for]="GUI"
-   programmer_hash[:alan_kay][:known_for]  
 end
-
+ programmer_hash[:alan_kay][:known_for] 
+ 
+ 
 def adding_to_dennis
 	programmer_hash = 
  		{
