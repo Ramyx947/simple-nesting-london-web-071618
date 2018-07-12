@@ -92,7 +92,7 @@ def adding_matz
 end
 
 def changing_alan
-	programmer_hash = 
+	#programmer_hash = 
  	# 	{
   #       :grace_hopper => {
   #         :known_for => "COBOL",
@@ -121,7 +121,7 @@ def changing_alan
     # end 
     
   programmer_hash[:alan_kay][:known_for]="GUI"
-  puts programmer_hash[:alan_kay]
+  puts programmer_hash
 end
  
  
