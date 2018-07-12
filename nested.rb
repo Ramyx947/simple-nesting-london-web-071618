@@ -120,7 +120,7 @@ def changing_alan
     # end 
     
   programmer_hash[:alan_kay][:known_for]="GUI"
-  puts programmer_hash[:alan_kay][:known_for] 
+  print programmer_hash[:alan_kay][:known_for] 
 end
  
  
